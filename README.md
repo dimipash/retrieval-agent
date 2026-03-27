@@ -2,7 +2,7 @@
 
 A production-grade RAG (Retrieval-Augmented Generation) chatbot built with Python and the Claude API. Answers questions grounded in your own documents — no hallucinations, sources always cited.
 
-**Status:** config + document model ✅ | chunker ✅ | embedder ✅ | vector store 🔜 | query pipeline 🔜 | deployment 🔜
+**Status:** config + document model ✅ | chunker ✅ | embedder ✅ | vector store ✅ | query pipeline 🔜 | deployment 🔜
 
 ---
 
